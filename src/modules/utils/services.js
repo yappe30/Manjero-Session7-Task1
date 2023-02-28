@@ -1,0 +1,1 @@
+export const postUser = "https://reqres.in/api/users ";
